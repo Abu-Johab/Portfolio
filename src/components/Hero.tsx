@@ -107,7 +107,7 @@ export default function Hero() {
                 <div className="w-7 h-7 rounded-lg bg-sky-100 text-sky-700 flex items-center justify-center">
                   <BookOpen size={15} />
                 </div>
-                <span><strong className="text-slate-900 font-extrabold text-sm">{publications.length}+</strong> Peer-Reviewed Papers</span>
+                <span><strong className="text-slate-900 font-extrabold text-sm">{publications.length}+</strong> Conference Papers</span>
               </div>
               <div className="flex items-center gap-2">
                 <div className="w-7 h-7 rounded-lg bg-amber-100 text-amber-700 flex items-center justify-center">
