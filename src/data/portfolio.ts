@@ -662,7 +662,7 @@ export const eventsGallery: EventItem[] = [
   {
     id: 'workshop-hosting',
     title: 'Hands-on Technical Workshop Hosting',
-    role: 'Workshop Host & Speaker',
+    role: 'Workshop Host',
     category: 'Workshop',
     organization: 'Department of Computer Science and Engineering, PUST',
     period: '2025',
