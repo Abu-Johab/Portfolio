@@ -377,7 +377,7 @@ export const underReview: Manuscript[] = [
   {
     title: 'Comparative Analysis of Explainable Spectroscopic-Fusion Models for Avocado Leaf Nitrogen Prediction',
     authors: 'Johab, M.A., et al.',
-    journal: 'Food Chemistry',
+    journal: 'Agri Engineering',
     year: '2026',
     status: 'Under Review',
   },
@@ -398,14 +398,14 @@ export const underReview: Manuscript[] = [
   {
     title: 'Comparative Analysis of Explainable Hyperspectral Models for Broccoli Dry Matter Prediction',
     authors: 'Johab, M.A., et al.',
-    journal: 'Food Chemistry',
+    journal: 'Food Analytical Methods (Special Issue: Advances in Chemometrics and Data Science for Food Analysis – Selected Contributions from the 16th Workshop of Chemometrics)',
     year: '2026',
     status: 'Under Review',
   },
   {
     title: 'Explainable Artificial Intelligence for Spectroscopic Soil Quality Assessment: A Systematic Review',
     authors: 'Johab, M.A., et al.',
-    journal: 'Computers and Electronics in Agriculture',
+    journal: 'Earth Science Review',
     year: '2026',
     status: 'Under Review',
   },
