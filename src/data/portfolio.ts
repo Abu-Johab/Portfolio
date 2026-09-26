@@ -521,11 +521,11 @@ export const certifications: Certification[] = [
     image: '/certificates/comps.jpeg',
   },
   {
-    name: 'Oral Presentation Certificate — Key Determinants of Road Accidents Analysis',
+    name: 'Oral Presentation Certificate — EEG-Based Depression Detection Using CNNs and Heatmaps',
     issuer: 'International Conference on Data Science, AI and Applications (ICDSAIA 2025)',
     year: '2025',
     category: 'Oral Presentation',
-    description: 'Awarded for delivering oral presentation on Key Determinants of Road Accidents using Machine Learning Analysis.',
+    description: 'Awarded for delivering oral presentation on EEG-Based Depression Detection Using CNNs and Heatmaps.',
     image: '/certificates/icdsaia.jpeg',
   },
   {
